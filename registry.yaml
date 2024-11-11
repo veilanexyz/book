@@ -19,7 +19,6 @@
   path: content/gagarin.mdx
   date: 2024-11-12
   type: guide
-  public_demo_url: https://yandex.cloud
   weight: 2
   authors:
     - all-mute
