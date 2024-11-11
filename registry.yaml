@@ -13,7 +13,7 @@
   authors:
     - all-mute
   tags:
-    - agents
+    - agent
 
 - title: Gagarin example 2
   path: content/gagarin.mdx
@@ -25,5 +25,5 @@
     - all-mute
     - all-mute2
   tags:
-    - agents
+    - agent
     - aiops
