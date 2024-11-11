@@ -14,3 +14,16 @@
     - all-mute
   tags:
     - agents
+
+- title: Gagarin example 2
+  path: content/gagarin.mdx
+  date: 2024-11-12
+  type: guide
+  public_demo_url: https://yandex.cloud
+  weight: 2
+  authors:
+    - all-mute
+    - all-mute2
+  tags:
+    - agents
+    - aiops
