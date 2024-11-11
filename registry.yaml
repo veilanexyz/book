@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=./.github/registry_schema.json
+
+# This file is used to generate cookbook.openai.com. It specifies which paths we
+# should build pages for, and indicates metadata such as tags, creation date and
+# authors for each page.
+
+- title: Gagarin example
+  path: content/gagarin.mdx
+  date: 2024-11-11
+  type: guide
+  public_demo_url: https://yandex.cloud
+  weight: 1
+  authors:
+    - all-mute
+  tags:
+    - agents
