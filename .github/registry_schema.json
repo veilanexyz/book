@@ -32,6 +32,9 @@
         },
         "weight": {
           "type": "number"
+        },
+        "pinned_category": {
+          "type": "string"
         }
       },
       "required": ["title", "path", "tags", "authors", "date"],
