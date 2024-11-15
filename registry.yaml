@@ -15,15 +15,12 @@
   tags:
     - agent
 
-- title: prompt_eng
+- - title: Приложение по автоматическому промпт инжинирунгу (APE)
   path: content/prompt_eng.mdx
   date: 2024-11-15
-  type: web
+  type: demo
   weight: 2
   authors:
     - veilanexyz
-  tags:
-    - yandexgpt
-    - prompt
   pinned_category: new
   
