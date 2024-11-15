@@ -15,16 +15,15 @@
   tags:
     - agent
 
-- title: Gagarin example 2
-  path: content/gagarin.mdx
-  date: 2024-11-12
-  type: guide
+- title: prompt_eng
+  path: content/prompt_eng.mdx
+  date: 2024-11-15
+  type: web
   weight: 2
   authors:
-    - all-mute
-    - all-mute2
+    - veilanexyz
   tags:
-    - agent
-    - aiops
+    - yandexgpt
+    - prompt
   pinned_category: new
   
